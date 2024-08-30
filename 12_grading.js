@@ -20,7 +20,7 @@ else if(mark<=70 && mark >= 61){
     console.log('Result C')
 }
 else if(mark<=60 && mark >= 51){
-    console.log('Result C')
+    console.log('Result D')
 }
 else{
     console.log('Result FAIL')
